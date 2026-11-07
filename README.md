@@ -17,7 +17,7 @@ git clone --recurse-submodules https://github.com/termux/termux-x11
 or
 ```
 git clone https://github.com/termux/termux-x11
-cd termux-x11
+ termux-cdx11
 git submodule update --init --recursive
 ```
 
